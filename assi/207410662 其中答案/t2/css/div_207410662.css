@@ -1,0 +1,93 @@
+h1 {
+    text-align: center;
+    margin: 0px;
+}
+
+#article {
+    background-color: aqua;
+    height: 520px;
+    width: 69%;
+    float: left;
+    border: 2px solid black
+}
+
+#section {
+    background-color:burlywood;
+    height: 400px;
+    width: 94%;
+    float: left;
+    border: 2px solid black;
+    margin: 0px 25px;
+}
+
+#display {
+    background-color:forestgreen;
+    height: 160px;
+    width: 80%;
+    float: right;
+    border: 2px solid black;
+    margin: 0px 70px;
+}
+
+#picContioner {
+    background-color:firebrick;
+    height: 150px;
+    width: 90%;
+    float: right;
+    border: 2px solid black;
+    margin: 5px 30px;
+}
+
+.small_pic {
+    background-color:dodgerblue;
+    height: 80px;
+    width: 100px;
+    float: inherit;
+    border: 2px solid black;
+    margin: 36px;
+}
+
+#aside {
+    background-color:burlywood;
+    height: 520px;
+    width: 29.3%;
+    float: left;
+    border: 2px solid black;
+}
+
+#nav {
+    background-color:dimgrey;
+    height: 400px;
+    width: 96%;
+    float: left;
+    border: 2px solid black;
+    margin: 5px;
+}
+
+#logo {
+    background-color:dimgrey;
+    height: 80px;
+    width: 29.3%;
+    float: left;
+    border: 2px solid black
+}
+
+#header {
+    background-color:beige;
+    height: 80px;
+    width: 69%;
+    float: left;
+    border: 2px solid black
+}
+
+#footer {
+    background-color:beige;
+    height: 80px;
+    width: 98.6%;
+    float: left;
+    border: 2px solid black;
+}
+
+#nav {
+    
+}
