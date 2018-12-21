@@ -1,21 +1,9 @@
-# 1071-staic-webpage
+# 1071-staic-webpage final work
 
-Week 1
-* intro.html
+1.將之前作業全部整理到一個頁面
 
-Week 2
-* table.html
-* my class.html
+2.用boostap將之前作業改響應式
 
-Week 3
-* tku60.html
-* divdemo.html
+3.課外練習
 
-Week 4
-* ttt.html,ttt.css
-* blog.html,blog.css
-* profile.html
-
-Week 5
-* imagegallery.html,imagegallery.css
-* pet website.html,pet website.css
+4.心得
